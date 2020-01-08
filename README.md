@@ -35,7 +35,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 If you want to embed images, this is how you do it:
 
-![Image of FastMRI](figure10_fastmri_b40up.tiff)
+![Image of FastMRI](fastmri.png)
 
 
 
